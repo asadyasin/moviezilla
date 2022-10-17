@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moviezilla/static/css/main.b6d1a5d7.css",
-    "main.js": "/moviezilla/static/js/main.eab717cc.js",
+    "main.js": "/moviezilla/static/js/main.19fcbb2f.js",
     "index.html": "/moviezilla/index.html",
     "static/media/search.svg": "/moviezilla/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.b6d1a5d7.css.map": "/moviezilla/static/css/main.b6d1a5d7.css.map",
-    "main.eab717cc.js.map": "/moviezilla/static/js/main.eab717cc.js.map"
+    "main.19fcbb2f.js.map": "/moviezilla/static/js/main.19fcbb2f.js.map"
   },
   "entrypoints": [
     "static/css/main.b6d1a5d7.css",
-    "static/js/main.eab717cc.js"
+    "static/js/main.19fcbb2f.js"
   ]
 }
